@@ -17,3 +17,7 @@ To Test:
 * Need to choose product ID and insert the coins.
 * It will give you the balance accordingly.
 * Insufficient fund, if no coins available.
+
+
+
+Please use this link to test : https://vidhyasgr.github.io/vendingMachine
