@@ -1,0 +1,26 @@
+[{
+
+  "coinValue" : 0.10,
+  "numberOfCoinsAvailable" : 100
+ },
+  {
+
+    "coinValue" : 0.20,
+    "numberOfCoinsAvailable" : 100
+  },
+  {
+
+    "coinValue" : 0.50,
+    "numberOfCoinsAvailable" : 100
+  },
+  {
+
+    "coinValue" : 1.00,
+    "numberOfCoinsAvailable" : 100
+  },
+  {
+
+    "coinValue" : 2.00,
+    "numberOfCoinsAvailable" : 100
+  }
+]

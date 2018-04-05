@@ -1,0 +1,28 @@
+[{
+
+  "drinkId" : 2,
+  "drinkName" : "",
+  "drinkPrice" : "2.40",
+  "numberOfDrinksAvailable" : 4
+},
+{
+
+"drinkId" : 3,
+"drinkName" : "",
+"drinkPrice" : "1.20",
+"numberOfDrinksAvailable" : 14
+},
+{
+
+"drinkId" : 4,
+"drinkName" : "",
+"drinkPrice" : "1.40",
+"numberOfDrinksAvailable" : 14
+},
+{
+
+"drinkId" : 5,
+"drinkName" : "",
+"drinkPrice" : "5.10",
+"numberOfDrinksAvailable" : 34
+}]
